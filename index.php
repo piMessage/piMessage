@@ -1,2 +1,2 @@
 # piMessage
-Hayatı Mesajla!
+Hayatı Mesajla
